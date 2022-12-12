@@ -1,6 +1,3 @@
-<html>
-  <head>
-    <style>
     h1 {
       color : red;
       font-size: 30pt;
@@ -9,10 +6,3 @@
       color : blue;
       font-size: 14;
 }
-    </style>
-  </head>
-  <body>
-  <h1>"hello there!"</h1>
-  <p>"assignment for introduction to css"</p>
-</body>
-</html>
