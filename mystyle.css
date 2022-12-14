@@ -2,18 +2,8 @@
       color : red;
       font-size: 30pt;
 }
-    p1 {
+    p {
       color : blue;
       font-size: 14;
-      font-family: Arial , Helvetica, sans-serif; 
-}
-    p2 {
-      color : BlueViolet;
-      font-size: 14;
-      font-family: "Times New Roman", Times, serif;
-}
-    p3 { 
-      color : MidnightBlue;
-      font-size: 14; 
-      font-family: "Lucida Console", "Courier New", monospace;
+      font-family: "Times New Roman", Times, serif; 
 }
